@@ -1,0 +1,9 @@
+.gamepadhomerecentgames_RecentGamesBackground_1SRox {
+  opacity: 1 !important;
+  filter: blur(0px) brightness(2) !important;
+  transform: scale(1.05) translateZ(0);
+  transform-origin: center;
+  will-change: filter, transform;
+  backface-visibility: hidden;
+  contain: strict;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bright Home Background",
+  "version": "v1.0",
+  "author": "Lethal Hatred",
+  "manifest_version": 9,
+  "inject": {
+    "shared.css": [
+      "bigpicture"
+    ]
+  },
+  "id": "94kfjk87-sef3-hg45-ff3f-dge55tdr5e"
+}
